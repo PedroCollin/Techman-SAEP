@@ -1,0 +1,43 @@
+:root{
+    --background: #cce2e2;
+    --light: #fff;
+    --dark: #35797d;
+  }
+  
+  *, html, body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS';
+    font-size: 10px;
+  }
+  
+  .flexRowSpaced{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .flexRowRight{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+  }
+  
+  .flexRowCenter{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .flexColumnCenter{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }

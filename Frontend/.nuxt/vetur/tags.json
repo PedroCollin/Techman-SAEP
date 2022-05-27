@@ -1,0 +1,17 @@
+{
+  "ExcluirComentario": {
+    "description": "Auto imported from components/excluirComentario.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "InserirComentario": {
+    "description": "Auto imported from components/inserirComentario.vue"
+  },
+  "InserirEquipamento": {
+    "description": "Auto imported from components/inserirEquipamento.vue"
+  },
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  }
+}

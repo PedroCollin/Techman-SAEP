@@ -1,0 +1,16 @@
+[
+  {
+    "name": "home",
+    "path": "/home",
+    "component": "C:\\\\Users\\\\lab10\\\\Desktop\\\\SAEP\\\\TECH\\\\Frontend\\\\pages\\\\home\\\\index.vue",
+    "chunkName": "pages/home/index",
+    "_name": "_ed7cab1a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\lab10\\\\Desktop\\\\SAEP\\\\TECH\\\\Frontend\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_81c7bb9c"
+  }
+]
